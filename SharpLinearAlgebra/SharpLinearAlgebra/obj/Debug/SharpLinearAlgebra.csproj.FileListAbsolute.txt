@@ -1,0 +1,8 @@
+C:\Dropbox\Personal\Programming\GithubJochem\SharpLinearAlgebra\SharpLinearAlgebra\obj\Debug\SharpLinearAlgebra.csprojResolveAssemblyReference.cache
+C:\Dropbox\Personal\Programming\GithubJochem\SharpLinearAlgebra\SharpLinearAlgebra\obj\Debug\SharpLinearAlgebra.Properties.Resources.resources
+C:\Dropbox\Personal\Programming\GithubJochem\SharpLinearAlgebra\SharpLinearAlgebra\obj\Debug\SharpLinearAlgebra.csproj.GenerateResource.Cache
+C:\Dropbox\Personal\Programming\GithubJochem\SharpLinearAlgebra\SharpLinearAlgebra\bin\Debug\SharpLinearAlgebra.dll.config
+C:\Dropbox\Personal\Programming\GithubJochem\SharpLinearAlgebra\SharpLinearAlgebra\bin\Debug\SharpLinearAlgebra.dll
+C:\Dropbox\Personal\Programming\GithubJochem\SharpLinearAlgebra\SharpLinearAlgebra\bin\Debug\SharpLinearAlgebra.pdb
+C:\Dropbox\Personal\Programming\GithubJochem\SharpLinearAlgebra\SharpLinearAlgebra\obj\Debug\SharpLinearAlgebra.dll
+C:\Dropbox\Personal\Programming\GithubJochem\SharpLinearAlgebra\SharpLinearAlgebra\obj\Debug\SharpLinearAlgebra.pdb

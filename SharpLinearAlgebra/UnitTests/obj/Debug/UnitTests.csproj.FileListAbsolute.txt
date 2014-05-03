@@ -1,0 +1,7 @@
+C:\Dropbox\Personal\Programming\GithubJochem\SharpLinearAlgebra\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Dropbox\Personal\Programming\GithubJochem\SharpLinearAlgebra\UnitTests\bin\Debug\UnitTests.dll
+C:\Dropbox\Personal\Programming\GithubJochem\SharpLinearAlgebra\UnitTests\bin\Debug\UnitTests.pdb
+C:\Dropbox\Personal\Programming\GithubJochem\SharpLinearAlgebra\UnitTests\bin\Debug\SharpLinearAlgebra.dll
+C:\Dropbox\Personal\Programming\GithubJochem\SharpLinearAlgebra\UnitTests\bin\Debug\SharpLinearAlgebra.pdb
+C:\Dropbox\Personal\Programming\GithubJochem\SharpLinearAlgebra\UnitTests\obj\Debug\UnitTests.dll
+C:\Dropbox\Personal\Programming\GithubJochem\SharpLinearAlgebra\UnitTests\obj\Debug\UnitTests.pdb
